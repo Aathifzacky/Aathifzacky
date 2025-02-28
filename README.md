@@ -2,6 +2,10 @@
 
 ###
 
+<h3 align="center">Github Stats</h3>
+
+###
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Aathifzacky&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
@@ -12,6 +16,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Aathifzacky&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aathifzacky&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<h3 align="center">My Skill Set</h3>
 
 ###
 
@@ -60,6 +68,10 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Aathifzacky/Aathifzacky/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h3 align="center">Connect with me</h3>
 
 ###
 
