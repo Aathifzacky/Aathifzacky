@@ -67,7 +67,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Aathifzacky/Aathifzacky/output/snake.svg" alt="Snake animation" />
+###
+
+[![Aathif's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AathifZacky&bg_color=0d1117&color=ffdd00&line=00ff11&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ###
 
@@ -87,7 +89,3 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-[![Aathif's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AathifZacky&bg_color=0d1117&color=ffdd00&line=00ff11&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
